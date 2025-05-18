@@ -10,8 +10,8 @@
 
 ---
 🎓 **Estudante de Engenharia de Software na UFC**  
-🕹️ **Desenvolvedor Front-End** apaixonado por Hollow Knight
-💻 **React + TypeScript** são minhas armas secretas  
+🕹️ **Desenvolvedor Front-End** apaixonado por design retrô  
+💻 **React + TypeScript** são minhas ferramentas favoritas  
 🧠 Sempre explorando novos níveis de conhecimento!
 ---
 ## 🛠️ Tecnologias e Ferramentas
