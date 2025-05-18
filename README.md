@@ -1,5 +1,5 @@
 <h1 align="center" >
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnJveGcydG9mbzhka2FveTd6ZXBvdXp0d3V0bWxvZncyN2U0MmFubiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3aMUdXTxeqMq5NLQaT/giphy.gif" width="40"/>Olá, viajante do GitHub! Eu seu Karlos Eduardo!<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnJveGcydG9mbzhka2FveTd6ZXBvdXp0d3V0bWxvZncyN2U0MmFubiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3aMUdXTxeqMq5NLQaT/giphy.gif" width="40"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnJveGcydG9mbzhka2FveTd6ZXBvdXp0d3V0bWxvZncyN2U0MmFubiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3aMUdXTxeqMq5NLQaT/giphy.gif" width="40"/>Olá, viajante do GitHub! Eu sou Karlos Eduardo!<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnJveGcydG9mbzhka2FveTd6ZXBvdXp0d3V0bWxvZncyN2U0MmFubiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3aMUdXTxeqMq5NLQaT/giphy.gif" width="40"/>
 </h1>
 
 <p align="center">
